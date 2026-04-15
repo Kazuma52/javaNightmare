@@ -5,7 +5,7 @@ import java.util.NoSuchElementException;
  * This program provides an implementation of the Deque interface. Also provides a main that
  * demonstrates it.
  * 
- * @author (Omar McIntosh), Acuna
+ * @author (Omar McIntosh), Acuna kill
  * @version (JDK23.0.5)
  */
 
