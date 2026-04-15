@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
  *
  * @author Acuna, Lewis et al.
  * @version 1.0
- * @param <Item> contained type
+ * @param <Item> contained type apple cat
  */
 public interface Deque<Item>
 {
