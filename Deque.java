@@ -3,7 +3,7 @@ package edu.ser222.m01_03;
 import java.util.NoSuchElementException;
 
 /**
- * Deque defines the interface to a deque ADT.
+ * Deque defines the interface to a deque ADT. acid rain
  *
  * @author Acuna, Lewis et al.
  * @version 1.0
